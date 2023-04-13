@@ -1,6 +1,6 @@
 # PENGUIn
 
-PENGUIn (Python ENcoded Unicode to GPIO Analog signal) is a Python algorithm that encodes Unicode characters and transmits them as analog signals using a microcontroller board.
+PENGUIn (Pulse Encoding for Non-digital Generation of Unicode INformation) is a Python algorithm that encodes Unicode characters and transmits them as analog signals using a microcontroller board.
 
 ## Getting Started
 
